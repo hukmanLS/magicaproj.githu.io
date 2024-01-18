@@ -1,0 +1,34 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald&display=swap
+);
+
+body {
+    font-family: Oswald,serif;
+    background: linear-gradient(90deg, #211c1f 4%, #f480be 43%, #211c1f 75%, #211c1f 82%);
+}
+
+.nav-link {
+    color: rgb(243, 103, 180);
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(208, 15, 121);
+}
+
+.navbar-brand img {
+    width: 55px;
+}
+
+.navbar-toggler {
+    background-color: hotpink;
+}
+.infobar{
+    color:   #e83bd1;
+    background: linear-gradient(270deg, #d4ff00 0%, #ec83de 100%);
+}
+   .card{
+    background: linear-gradient(270deg, #d4ff00 0%, #ec83de 100%);
+   }
+   h1{
+    color: #ec83de;
+   }
+  
